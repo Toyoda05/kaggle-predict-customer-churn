@@ -2,6 +2,7 @@
 
 ## 概要
 機械学習プロジェクトの説明
+https://www.kaggle.com/competitions/playground-series-s6e3/data
 
 ## ディレクトリ構成
 
